@@ -1,0 +1,11 @@
+h1{
+	color: red;
+	font: 100;
+}
+body{
+	
+	/*background-color:#8c7a7a;*/
+	background-image: url('imageone.jpg');
+	background-repeat:no-repeat;
+	background-position:top-center;
+}

@@ -1,0 +1,15 @@
+h1{
+	text-align: center;
+	/*display: inline;
+	display: none;*/
+}
+p{
+	display: block;
+	text-align: center;
+
+
+	/*Mind It H1 is a Block element and p is a inline element ..difference between block element and Inline Element
+		Block Element takes Full width so that we move its easily .for example if we use text-align property center,left,right its easily but if we use 
+		text-align property, At first we have to use display block property because p is a inline property it takes place as long as its length
+	*/
+}

@@ -1,0 +1,15 @@
+.heading{
+	font-size: 30px;
+	position: relative;
+	left: 500px;
+
+
+}
+
+.margin{
+	height: 300px;
+	width: auto;
+	background-color: brown;
+	margin-left: 100px;
+	margin-right: 100px;
+}

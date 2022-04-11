@@ -1,0 +1,16 @@
+a{
+	color: white;
+
+	margin: 40px 30px 30px 40px;
+	padding: 10px 20px;
+
+}
+
+a:link{
+	text-decoration: none;
+	background-color: brown;
+}
+
+a:hover{
+	background: yellow;
+}

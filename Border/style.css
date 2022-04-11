@@ -1,0 +1,16 @@
+.heading{
+	font-size: 30px;
+	position: relative;
+	left: 500px;
+
+}
+.para{
+	margin-top:50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #4d483b;
+	padding: 15px;
+
+}
